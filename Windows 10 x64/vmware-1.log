@@ -1,0 +1,319 @@
+2021-09-11T11:45:51.677+05:30| vmx| I005: Log for VMware Workstation pid=5112 version=16.1.2 build=build-17966106 option=Release
+2021-09-11T11:45:51.677+05:30| vmx| I005: The host is 64-bit.
+2021-09-11T11:45:51.677+05:30| vmx| I005: Host codepage=windows-1252 encoding=windows-1252
+2021-09-11T11:45:51.677+05:30| vmx| I005: Host is Windows 10 Pro, 64-bit (Build 19041.264)
+2021-09-11T11:45:51.598+05:30| vmx| I005: VTHREAD 6808 "vmx"
+2021-09-11T11:45:51.598+05:30| vmx| I005: LOCALE windows-1252 -> NULL User=4009 System=409
+2021-09-11T11:45:51.598+05:30| vmx| I005: Msg_SetLocaleEx: HostLocale=windows-1252 UserLocale=NULL
+2021-09-11T11:45:51.630+05:30| vmx| I005: DictionaryLoad: Cannot open file "C:\Users\Lenovo\AppData\Roaming\VMware\config.ini": The system cannot find the file specified.
+2021-09-11T11:45:51.630+05:30| vmx| I005: Msg_Reset:
+2021-09-11T11:45:51.630+05:30| vmx| I005: [msg.dictionary.load.openFailed] Cannot open file "C:\Users\Lenovo\AppData\Roaming\VMware\config.ini": The system cannot find the file specified.
+2021-09-11T11:45:51.630+05:30| vmx| I005: ----------------------------------------
+2021-09-11T11:45:51.630+05:30| vmx| I005: ConfigDB: Failed to load C:\Users\Lenovo\AppData\Roaming\VMware\config.ini
+2021-09-11T11:45:51.630+05:30| vmx| I005: Win32U_GetFileAttributes: GetFileAttributesExW("C:\Users\Lenovo\Documents\Virtual Machines\Windows 10 x64\Windows 10 x64.vmpl", ...) failed, error: 2
+2021-09-11T11:45:51.630+05:30| vmx| I005: OBJLIB-LIB: Objlib initialized.
+2021-09-11T11:45:51.645+05:30| vmx| I005: DictionaryLoad: Cannot open file "C:\Users\Lenovo\AppData\Roaming\VMware\config.ini": The system cannot find the file specified.
+2021-09-11T11:45:51.645+05:30| vmx| I005: [msg.dictionary.load.openFailed] Cannot open file "C:\Users\Lenovo\AppData\Roaming\VMware\config.ini": The system cannot find the file specified.
+2021-09-11T11:45:51.645+05:30| vmx| I005: PREF Optional preferences file not found at C:\Users\Lenovo\AppData\Roaming\VMware\config.ini. Using default values.
+2021-09-11T11:45:51.645+05:30| vmx| I005: UUID: SMBIOS UUID is reported as 'f6 b3 99 5a 8b 9f e4 11-a9 61 68 f7 28 6d e9 0a'.
+2021-09-11T11:45:51.661+05:30| vmx| I005: lib/ssl: OpenSSL using FIPS_drbg for RAND
+2021-09-11T11:45:51.661+05:30| vmx| I005: lib/ssl: protocol list tls1.2
+2021-09-11T11:45:51.661+05:30| vmx| I005: lib/ssl: protocol list tls1.2 (openssl flags 0x17000000)
+2021-09-11T11:45:51.661+05:30| vmx| I005: lib/ssl: cipher list ECDHE+AESGCM:RSA+AESGCM:ECDHE+AES:RSA+AES
+2021-09-11T11:45:51.661+05:30| vmx| I005: lib/ssl: curves list prime256v1:secp384r1:secp521r1
+2021-09-11T11:45:51.677+05:30| vmx| I005: Hostname=DESKTOP-3D9RA1E
+2021-09-11T11:45:51.692+05:30| vmx| I005: IP=fe80::d1b6:825a:ed58:81d7%6
+2021-09-11T11:45:51.692+05:30| vmx| I005: IP=fe80::74a6:8e65:bf55:5b55%7
+2021-09-11T11:45:51.692+05:30| vmx| I005: IP=fe80::ecea:26b7:48f9:50e3%12
+2021-09-11T11:45:51.692+05:30| vmx| I005: IP=2409:4070:2e1a:dbec:98d1:663:cfa5:643a
+2021-09-11T11:45:51.692+05:30| vmx| I005: IP=2409:4070:2e1a:dbec:ecea:26b7:48f9:50e3
+2021-09-11T11:45:51.692+05:30| vmx| I005: IP=192.168.229.1
+2021-09-11T11:45:51.692+05:30| vmx| I005: IP=192.168.159.1
+2021-09-11T11:45:51.692+05:30| vmx| I005: IP=192.168.43.200
+2021-09-11T11:45:51.723+05:30| vmx| I005: System uptime 1102580449056 us
+2021-09-11T11:45:51.723+05:30| vmx| I005: Command line: "C:\Program Files (x86)\VMware\VMware Workstation\x64\vmware-vmx.exe" "-T" "querytoken" "-s" "vmx.stdio.keep=TRUE" "-#" "product=1;name=VMware Workstation;version=16.1.2;buildnumber=17966106;licensename=VMware Workstation;licenseversion=16.0;" "-@" "pipe=\\.\pipe\vmx6c03474e3455ab11;msgs=ui" "C:\Users\Lenovo\Documents\Virtual Machines\Windows 10 x64\Windows 10 x64.vmx"
+2021-09-11T11:45:51.723+05:30| vmx| I005: Msg_SetLocaleEx: HostLocale=windows-1252 UserLocale=NULL
+2021-09-11T11:45:51.786+05:30| vmx| I005: WQPoolAllocPoll : pollIx = 1, signalHandle = 808
+2021-09-11T11:45:51.786+05:30| vmx| I005: WQPoolAllocPoll : pollIx = 2, signalHandle = 744
+2021-09-11T11:45:51.786+05:30| vmx| I005: VigorTransport listening on fd 832
+2021-09-11T11:45:51.786+05:30| vmx| I005: Vigor_Init 1
+2021-09-11T11:45:51.786+05:30| vmx| I005: Connecting 'ui' to pipe '\\.\pipe\vmx6c03474e3455ab11' with user '(null)'
+2021-09-11T11:45:51.786+05:30| vmx| I005: VMXVmdb: Local connection timeout: 60000 ms.
+2021-09-11T11:45:51.880+05:30| vmx| I005: VmdbAddConnection: cnxPath=/db/connection/#1/, cnxIx=1
+2021-09-11T11:45:51.880+05:30| vmx| I005: Vix: [mainDispatch.c:486]: VMAutomation: Initializing VMAutomation.
+2021-09-11T11:45:51.880+05:30| vmx| I005: Vix: [mainDispatch.c:738]: VMAutomationOpenListenerSocket() listening
+2021-09-11T11:45:51.919+05:30| vmx| I005: Vix: [mainDispatch.c:4205]: VMAutomation_ReportPowerOpFinished: statevar=0, newAppState=1870, success=1 additionalError=0
+2021-09-11T11:45:51.919+05:30| vmx| I005: Transitioned vmx/execState/val to poweredOff
+2021-09-11T11:45:51.919+05:30| vmx| I005: Vix: [mainDispatch.c:4205]: VMAutomation_ReportPowerOpFinished: statevar=1, newAppState=1873, success=1 additionalError=0
+2021-09-11T11:45:51.919+05:30| vmx| I005: Vix: [mainDispatch.c:4205]: VMAutomation_ReportPowerOpFinished: statevar=2, newAppState=1877, success=1 additionalError=0
+2021-09-11T11:45:51.919+05:30| vmx| I005: Vix: [mainDispatch.c:4205]: VMAutomation_ReportPowerOpFinished: statevar=3, newAppState=1881, success=1 additionalError=0
+2021-09-11T11:45:51.959+05:30| vmx| I005: IOPL_VBSRunning: VBS is set to 0
+2021-09-11T11:45:51.959+05:30| vmx| I005: IOCTL_VMX86_SET_MEMORY_PARAMS already set
+2021-09-11T11:45:51.959+05:30| vmx| I005: FeatureCompat: No EVC masks.
+2021-09-11T11:45:51.959+05:30| vmx| I005: hostCPUID vendor: GenuineIntel
+2021-09-11T11:45:51.959+05:30| vmx| I005: hostCPUID family: 0x6 model: 0x45 stepping: 0x1
+2021-09-11T11:45:51.959+05:30| vmx| I005: hostCPUID codename: Haswell Ultrathin
+2021-09-11T11:45:51.959+05:30| vmx| I005: hostCPUID name: Intel(R) Core(TM) i3-4030U CPU @ 1.90GHz
+2021-09-11T11:45:51.959+05:30| vmx| I005: hostCPUID level 00000000, 0: 0x0000000d 0x756e6547 0x6c65746e 0x49656e69
+2021-09-11T11:45:51.959+05:30| vmx| I005: hostCPUID level 00000001, 0: 0x00040651 0x00100800 0x7ffafbbf 0xbfebfbff
+2021-09-11T11:45:51.959+05:30| vmx| I005: hostCPUID level 00000002, 0: 0x76036301 0x00f0b5ff 0x00000000 0x00c10000
+2021-09-11T11:45:51.959+05:30| vmx| I005: hostCPUID level 00000003, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-09-11T11:45:51.959+05:30| vmx| I005: hostCPUID level 00000004, 0: 0x1c004121 0x01c0003f 0x0000003f 0x00000000
+2021-09-11T11:45:51.959+05:30| vmx| I005: hostCPUID level 00000004, 1: 0x1c004122 0x01c0003f 0x0000003f 0x00000000
+2021-09-11T11:45:51.959+05:30| vmx| I005: hostCPUID level 00000004, 2: 0x1c004143 0x01c0003f 0x000001ff 0x00000000
+2021-09-11T11:45:51.959+05:30| vmx| I005: hostCPUID level 00000004, 3: 0x1c03c163 0x02c0003f 0x00000fff 0x00000006
+2021-09-11T11:45:51.959+05:30| vmx| I005: hostCPUID level 00000004, 4: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-09-11T11:45:51.959+05:30| vmx| I005: hostCPUID level 00000005, 0: 0x00000040 0x00000040 0x00000003 0x11142120
+2021-09-11T11:45:51.959+05:30| vmx| I005: hostCPUID level 00000006, 0: 0x00000075 0x00000002 0x00000009 0x00000000
+2021-09-11T11:45:51.959+05:30| vmx| I005: hostCPUID level 00000007, 0: 0x00000000 0x000027ab 0x00000000 0x9c000400
+2021-09-11T11:45:51.959+05:30| vmx| I005: hostCPUID level 00000008, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-09-11T11:45:51.959+05:30| vmx| I005: hostCPUID level 00000009, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-09-11T11:45:51.959+05:30| vmx| I005: hostCPUID level 0000000a, 0: 0x07300403 0x00000000 0x00000000 0x00000603
+2021-09-11T11:45:51.959+05:30| vmx| I005: hostCPUID level 0000000b, 0: 0x00000001 0x00000002 0x00000100 0x00000000
+2021-09-11T11:45:51.959+05:30| vmx| I005: hostCPUID level 0000000b, 1: 0x00000004 0x00000004 0x00000201 0x00000000
+2021-09-11T11:45:51.959+05:30| vmx| I005: hostCPUID level 0000000b, 2: 0x00000000 0x00000000 0x00000002 0x00000000
+2021-09-11T11:45:51.959+05:30| vmx| I005: hostCPUID level 0000000c, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-09-11T11:45:51.959+05:30| vmx| I005: hostCPUID level 0000000d, 0: 0x00000007 0x00000340 0x00000340 0x00000000
+2021-09-11T11:45:51.959+05:30| vmx| I005: hostCPUID level 0000000d, 1: 0x00000001 0x00000000 0x00000000 0x00000000
+2021-09-11T11:45:51.959+05:30| vmx| I005: hostCPUID level 0000000d, 2: 0x00000100 0x00000240 0x00000000 0x00000000
+2021-09-11T11:45:51.959+05:30| vmx| I005: hostCPUID level 80000000, 0: 0x80000008 0x00000000 0x00000000 0x00000000
+2021-09-11T11:45:51.959+05:30| vmx| I005: hostCPUID level 80000001, 0: 0x00000000 0x00000000 0x00000021 0x2c100800
+2021-09-11T11:45:51.959+05:30| vmx| I005: hostCPUID level 80000002, 0: 0x65746e49 0x2952286c 0x726f4320 0x4d542865
+2021-09-11T11:45:51.959+05:30| vmx| I005: hostCPUID level 80000003, 0: 0x33692029 0x3330342d 0x43205530 0x40205550
+2021-09-11T11:45:51.959+05:30| vmx| I005: hostCPUID level 80000004, 0: 0x392e3120 0x7a484730 0x00000000 0x00000000
+2021-09-11T11:45:51.959+05:30| vmx| I005: hostCPUID level 80000005, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-09-11T11:45:51.959+05:30| vmx| I005: hostCPUID level 80000006, 0: 0x00000000 0x00000000 0x01006040 0x00000000
+2021-09-11T11:45:51.959+05:30| vmx| I005: hostCPUID level 80000007, 0: 0x00000000 0x00000000 0x00000000 0x00000100
+2021-09-11T11:45:51.959+05:30| vmx| I005: hostCPUID level 80000008, 0: 0x00003027 0x00000000 0x00000000 0x00000000
+2021-09-11T11:45:51.959+05:30| vmx| I005: CPUID differences from hostCPUID.
+2021-09-11T11:45:51.959+05:30| vmx| I005: Physical APIC IDs: 0-3
+2021-09-11T11:45:51.959+05:30| vmx| I005: Physical X2APIC IDs: 0-3
+2021-09-11T11:45:51.959+05:30| vmx| I005: Common: MSR       0x3a =                0x1
+2021-09-11T11:45:51.959+05:30| vmx| I005: Common: MSR      0x480 =   0xda040000000012
+2021-09-11T11:45:51.959+05:30| vmx| I005: Common: MSR      0x481 =       0x7f00000016
+2021-09-11T11:45:51.959+05:30| vmx| I005: Common: MSR      0x482 = 0xfff9fffe0401e172
+2021-09-11T11:45:51.959+05:30| vmx| I005: Common: MSR      0x483 =   0x7fffff00036dff
+2021-09-11T11:45:51.959+05:30| vmx| I005: Common: MSR      0x484 =     0xffff000011ff
+2021-09-11T11:45:51.959+05:30| vmx| I005: Common: MSR      0x485 =         0x300481e5
+2021-09-11T11:45:51.959+05:30| vmx| I005: Common: MSR      0x486 =         0x80000021
+2021-09-11T11:45:51.959+05:30| vmx| I005: Common: MSR      0x487 =         0xffffffff
+2021-09-11T11:45:51.959+05:30| vmx| I005: Common: MSR      0x488 =             0x2000
+2021-09-11T11:45:51.959+05:30| vmx| I005: Common: MSR      0x489 =           0x1727ff
+2021-09-11T11:45:51.959+05:30| vmx| I005: Common: MSR      0x48a =               0x2a
+2021-09-11T11:45:51.959+05:30| vmx| I005: Common: MSR      0x48b =     0x3cff00000000
+2021-09-11T11:45:51.959+05:30| vmx| I005: Common: MSR      0x48c =      0xf0106334141
+2021-09-11T11:45:51.959+05:30| vmx| I005: Common: MSR      0x48d =       0x7f00000016
+2021-09-11T11:45:51.959+05:30| vmx| I005: Common: MSR      0x48e = 0xfff9fffe04006172
+2021-09-11T11:45:51.959+05:30| vmx| I005: Common: MSR      0x48f =   0x7fffff00036dfb
+2021-09-11T11:45:51.959+05:30| vmx| I005: Common: MSR      0x490 =     0xffff000011fb
+2021-09-11T11:45:51.959+05:30| vmx| I005: Common: MSR      0x491 =                0x1
+2021-09-11T11:45:51.959+05:30| vmx| I005: Common: MSR 0xc0010114 =                  0
+2021-09-11T11:45:51.959+05:30| vmx| I005: Common: MSR       0xce =    0x8083bf3011300
+2021-09-11T11:45:51.959+05:30| vmx| I005: Common: MSR      0x10a =                  0
+2021-09-11T11:45:51.959+05:30| vmx| I005: Common: MSR      0x122 =                  0
+2021-09-11T11:45:51.959+05:30| vmx| I005: VMMon_GetkHzEstimate: Calculated 1895615 kHz
+2021-09-11T11:45:51.974+05:30| vmx| I005: HOSTINFO: Host supports constant rate TSC.
+2021-09-11T11:45:51.974+05:30| vmx| I005: TSC kHz estimates: vmmon 1895615, remembered 0, osReported 1900000. Using 1895615 kHz.
+2021-09-11T11:45:51.974+05:30| vmx| I005: TSC first measured delta 169
+2021-09-11T11:45:51.974+05:30| vmx| I005: TSC min delta 121
+2021-09-11T11:45:51.974+05:30| vmx| I005: PTSC: RefClockToPTSC 0 @ 10000000Hz -> 0 @ 1895615000Hz
+2021-09-11T11:45:51.974+05:30| vmx| I005: PTSC: RefClockToPTSC ((x * 3180314231) >> 24) + -215564455148856
+2021-09-11T11:45:51.974+05:30| vmx| I005: PTSC: tscOffset -215994734360651
+2021-09-11T11:45:51.974+05:30| vmx| I005: PTSC: using TSC
+2021-09-11T11:45:51.974+05:30| vmx| I005: PTSC: hardware TSCs are synchronized.
+2021-09-11T11:45:51.974+05:30| vmx| I005: PTSC: hardware TSCs may have been adjusted by the host.
+2021-09-11T11:45:51.974+05:30| vmx| I005: PTSC: current PTSC=374880
+2021-09-11T11:45:51.974+05:30| vmx| I005: WQPoolAllocPoll : pollIx = 3, signalHandle = 1044
+2021-09-11T11:45:52.053+05:30| vmx| I005: ConfigCheck: No rules file found. Checks are disabled.
+2021-09-11T11:45:52.053+05:30| vmx| I005: changing directory to C:\Users\Lenovo\Documents\Virtual Machines\Windows 10 x64\.
+2021-09-11T11:45:52.053+05:30| vmx| I005: Config file: C:\Users\Lenovo\Documents\Virtual Machines\Windows 10 x64\Windows 10 x64.vmx
+2021-09-11T11:45:52.053+05:30| vmx| I005: Vix: [mainDispatch.c:4205]: VMAutomation_ReportPowerOpFinished: statevar=1, newAppState=1873, success=1 additionalError=0
+2021-09-11T11:45:52.053+05:30| vmx| I005: Vix: [mainDispatch.c:4205]: VMAutomation_ReportPowerOpFinished: statevar=2, newAppState=1878, success=1 additionalError=0
+2021-09-11T11:45:52.146+05:30| vmx| W003: PowerOn
+2021-09-11T11:45:52.146+05:30| vmx| I005: VMX_PowerOn: VMX build 17966106, UI build 17966106
+2021-09-11T11:45:52.146+05:30| vmx| I005: HostWin32: WIN32 NUMA node 0, CPU mask 0x000000000000000f
+2021-09-11T11:45:52.162+05:30| vmx| I005: Vix: [mainDispatch.c:4205]: VMAutomation_ReportPowerOpFinished: statevar=0, newAppState=1871, success=1 additionalError=0
+2021-09-11T11:45:52.162+05:30| vmx| I005: HOST Windows version 10.0, build 19041, platform 2, ""
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT --- GLOBAL SETTINGS C:\ProgramData\VMware\VMware Workstation\settings.ini
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT          printers.enabled = "FALSE"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT --- NON PERSISTENT (null)
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT --- USER PREFERENCES C:\Users\Lenovo\AppData\Roaming\VMware\preferences.ini
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT   pref.lastUpdateCheckSec = "1631340678"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT pref.keyboardAndMouse.vmHotKey.enabled = "FALSE"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT pref.keyboardAndMouse.vmHotKey.count = "0"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT        pref.hostMRU.count = "1"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT        pref.hostMRU0.name = "localhost"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT        pref.hostMRU0.type = "vim"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT    pref.hostMRU0.viewtype = "vmView"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT pref.ws.session.window.count = "1"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT pref.ws.session.window0.tab.count = "1"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT pref.ws.session.window0.tab0.dest = ""
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT pref.ws.session.window0.tab0.file = ""
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT pref.ws.session.window0.tab0.type = "home"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT pref.ws.session.window0.tab0.cnxType = "vmdb"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT pref.ws.session.window0.tab0.focused = "TRUE"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT pref.ws.session.window0.sidebar = "TRUE"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT pref.ws.session.window0.sidebar.width = "200"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT pref.ws.session.window0.statusBar = "TRUE"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT pref.ws.session.window0.tabs = "TRUE"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT pref.ws.session.window0.thumbnailBar = "FALSE"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT pref.ws.session.window0.thumbnailBar.size = "125"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT pref.ws.session.window0.thumbnailBar.view = "same-folder"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT pref.ws.session.window0.placement.left = "156"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT pref.ws.session.window0.placement.top = "156"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT pref.ws.session.window0.placement.right = "1181"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT pref.ws.session.window0.placement.bottom = "681"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT pref.ws.session.window0.maximized = "TRUE"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT         vmWizard.guestKey = "windows9-64"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT vmWizard.installMediaType = "later"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT vmWizard.isoLocationMRU.count = "1"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT vmWizard.isoLocationMRU0.location = "C:\Users\Lenovo\Downloads\CentOS-Stream-8-x86_64-20210907-boot.iso"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT --- USER DEFAULTS C:\Users\Lenovo\AppData\Roaming\VMware\config.ini
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT --- HOST DEFAULTS C:\ProgramData\VMware\VMware Workstation\config.ini
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT         authd.client.port = "902"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT           authd.proxy.nfc = "vmware-hostd:ha-nfc"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT installerDefaults.autoSoftwareUpdateEnabled = "yes"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT installerDefaults.autoSoftwareUpdateEnabled.epoch = "10758"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT installerDefaults.componentDownloadEnabled = "yes"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT installerDefaults.dataCollectionEnabled = "yes"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT installerDefaults.dataCollectionEnabled.epoch = "10758"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT --- SITE DEFAULTS C:\ProgramData\VMware\VMware Workstation\config.ini
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT         authd.client.port = "902"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT           authd.proxy.nfc = "vmware-hostd:ha-nfc"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT installerDefaults.autoSoftwareUpdateEnabled = "yes"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT installerDefaults.autoSoftwareUpdateEnabled.epoch = "10758"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT installerDefaults.componentDownloadEnabled = "yes"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT installerDefaults.dataCollectionEnabled = "yes"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT installerDefaults.dataCollectionEnabled.epoch = "10758"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT --- NONPERSISTENT
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT            vmx.stdio.keep = "TRUE"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT             gui.available = "TRUE"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT --- COMMAND LINE
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT            vmx.stdio.keep = "TRUE"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT             gui.available = "TRUE"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT --- RECORDING
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT            vmx.stdio.keep = "TRUE"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT             gui.available = "TRUE"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT --- CONFIGURATION C:\Users\Lenovo\Documents\Virtual Machines\Windows 10 x64\Windows 10 x64.vmx 
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT            config.version = "8"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT         virtualHW.version = "18"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT              mks.enable3d = "TRUE"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT        pciBridge0.present = "TRUE"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT        pciBridge4.present = "TRUE"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT     pciBridge4.virtualDev = "pcieRootPort"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT      pciBridge4.functions = "8"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT        pciBridge5.present = "TRUE"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT     pciBridge5.virtualDev = "pcieRootPort"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT      pciBridge5.functions = "8"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT        pciBridge6.present = "TRUE"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT     pciBridge6.virtualDev = "pcieRootPort"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT      pciBridge6.functions = "8"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT        pciBridge7.present = "TRUE"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT     pciBridge7.virtualDev = "pcieRootPort"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT      pciBridge7.functions = "8"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT             vmci0.present = "TRUE"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT             hpet0.present = "TRUE"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT                     nvram = "Windows 10 x64.nvram"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT virtualHW.productCompatibility = "hosted"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT        powerType.powerOff = "soft"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT         powerType.powerOn = "soft"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT         powerType.suspend = "soft"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT           powerType.reset = "soft"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT               displayName = "Windows 10 x64"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT usb.vbluetooth.startConnected = "TRUE"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT                  firmware = "efi"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT      sensor.accelerometer = "pass-through"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT       sensor.ambientLight = "pass-through"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT            sensor.compass = "pass-through"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT          sensor.gyrometer = "pass-through"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT       sensor.inclinometer = "pass-through"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT           sensor.location = "pass-through"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT        sensor.orientation = "pass-through"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT                   guestOS = "windows9-64"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT            tools.syncTime = "FALSE"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT          sound.autoDetect = "TRUE"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT          sound.virtualDev = "hdaudio"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT            sound.fileName = "-1"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT             sound.present = "TRUE"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT                  numvcpus = "2"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT      cpuid.coresPerSocket = "2"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT                   memsize = "2048"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT                mem.hotadd = "TRUE"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT             sata0.present = "TRUE"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT             nvme0.present = "TRUE"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT          nvme0:0.fileName = "Windows 10 x64.vmdk"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT           nvme0:0.present = "TRUE"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT        sata0:1.deviceType = "cdrom-image"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT          sata0:1.fileName = "C:\Users\Lenovo\Downloads\CentOS-Stream-8-x86_64-20210907-boot.iso"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT           sata0:1.present = "TRUE"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT               usb.present = "TRUE"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT              ehci.present = "TRUE"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT          usb_xhci.present = "TRUE"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT     svga.graphicsMemoryKB = "8388608"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT  ethernet0.connectionType = "nat"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT     ethernet0.addressType = "generated"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT      ethernet0.virtualDev = "e1000e"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT          serial0.fileType = "thinprint"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT          serial0.fileName = "thinprint"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT         ethernet0.present = "TRUE"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT           serial0.present = "TRUE"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT        extendedConfigFile = "Windows 10 x64.vmxf"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT           floppy0.present = "FALSE"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT --- USER DEFAULTS C:\Users\Lenovo\AppData\Roaming\VMware\config.ini 
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT --- HOST DEFAULTS C:\ProgramData\VMware\VMware Workstation\config.ini 
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT         authd.client.port = "902"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT           authd.proxy.nfc = "vmware-hostd:ha-nfc"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT installerDefaults.autoSoftwareUpdateEnabled = "yes"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT installerDefaults.autoSoftwareUpdateEnabled.epoch = "10758"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT installerDefaults.componentDownloadEnabled = "yes"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT installerDefaults.dataCollectionEnabled = "yes"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT installerDefaults.dataCollectionEnabled.epoch = "10758"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT --- SITE DEFAULTS C:\ProgramData\VMware\VMware Workstation\config.ini 
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT         authd.client.port = "902"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT           authd.proxy.nfc = "vmware-hostd:ha-nfc"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT installerDefaults.autoSoftwareUpdateEnabled = "yes"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT installerDefaults.autoSoftwareUpdateEnabled.epoch = "10758"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT installerDefaults.componentDownloadEnabled = "yes"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT installerDefaults.dataCollectionEnabled = "yes"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT installerDefaults.dataCollectionEnabled.epoch = "10758"
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT --- GLOBAL SETTINGS C:\ProgramData\VMware\VMware Workstation\settings.ini 
+2021-09-11T11:45:52.162+05:30| vmx| I005: DICT          printers.enabled = "FALSE"
+2021-09-11T11:45:52.178+05:30| vmx| I005: ToolsISO: open of C:\Program Files (x86)\VMware\VMware Workstation\isoimages_manifest.txt.sig failed: Could not find the file
+2021-09-11T11:45:52.178+05:30| vmx| I005: ToolsISO: Unable to read signature file 'C:\Program Files (x86)\VMware\VMware Workstation\isoimages_manifest.txt.sig', ignoring.
+2021-09-11T11:45:52.178+05:30| vmx| I005: ToolsISO: Updated cached value for imageName to 'windows.iso'.
+2021-09-11T11:45:52.178+05:30| vmx| I005: ToolsISO: Selected Tools ISO 'windows.iso' for 'windows9-64' guest.
+2021-09-11T11:45:52.178+05:30| vmx| I005: Vix: [mainDispatch.c:4205]: VMAutomation_ReportPowerOpFinished: statevar=1, newAppState=1873, success=1 additionalError=0
+2021-09-11T11:45:52.178+05:30| vmx| I005: Win32U_GetFileAttributes: GetFileAttributesExW("C:\Users\Lenovo\Documents\Virtual Machines\Windows 10 x64\Windows 10 x64.nvram", ...) failed, error: 2
+2021-09-11T11:45:52.178+05:30| vmx| I005: The following VT-x features are required for VT-x support in VMware Workstation; however, these features are not available on this host:
+2021-09-11T11:45:52.178+05:30| vmx| I005: Module 'MonitorMode' power on failed.
+2021-09-11T11:45:52.178+05:30| vmx| I005: VMX_PowerOn: ModuleTable_PowerOn = 0
+2021-09-11T11:45:52.178+05:30| vmx| I005: Vix: [mainDispatch.c:4205]: VMAutomation_ReportPowerOpFinished: statevar=1, newAppState=1873, success=1 additionalError=0
+2021-09-11T11:45:52.178+05:30| vmx| I005: 
+2021-09-11T11:45:52.178+05:30| vmx| I005+ Power on failure messages: This host supports Intel VT-x, but Intel VT-x is disabled.
+2021-09-11T11:45:52.178+05:30| vmx| I005+ Intel VT-x might be disabled if it has been disabled in the BIOS/firmware settings or the host has not been power-cycled since changing this setting.
+2021-09-11T11:45:52.178+05:30| vmx| I005+ (1) Verify that the BIOS/firmware settings enable Intel VT-x and disable 'trusted execution.'
+2021-09-11T11:45:52.178+05:30| vmx| I005+ (2) Power-cycle the host if either of these BIOS/firmware settings have been changed.
+2021-09-11T11:45:52.178+05:30| vmx| I005+ (3) Power-cycle the host if you have not done so since installing VMware Workstation.
+2021-09-11T11:45:52.178+05:30| vmx| I005+ (4) Update the host's BIOS/firmware to the latest version.
+2021-09-11T11:45:52.178+05:30| vmx| I005+ This host does not support "Intel EPT" hardware assisted MMU virtualization.
+2021-09-11T11:45:52.178+05:30| vmx| I005+ VMware Workstation does not support the user level monitor on this host.
+2021-09-11T11:45:52.178+05:30| vmx| I005+ Module 'MonitorMode' power on failed.
+2021-09-11T11:45:52.178+05:30| vmx| I005+ Failed to start the virtual machine.
+2021-09-11T11:45:52.178+05:30| vmx| I005+ 
+2021-09-11T11:45:52.178+05:30| vmx| I005: Vix: [mainDispatch.c:4205]: VMAutomation_ReportPowerOpFinished: statevar=0, newAppState=1870, success=1 additionalError=0
+2021-09-11T11:45:52.178+05:30| vmx| I005: Transitioned vmx/execState/val to poweredOff
+2021-09-11T11:45:52.178+05:30| vmx| I005: Vix: [mainDispatch.c:4205]: VMAutomation_ReportPowerOpFinished: statevar=0, newAppState=1870, success=0 additionalError=0
+2021-09-11T11:45:52.178+05:30| vmx| I005: Vix: [mainDispatch.c:4243]: Error VIX_E_FAIL in VMAutomation_ReportPowerOpFinished(): Unknown error
+2021-09-11T11:45:52.178+05:30| vmx| I005: Vix: [mainDispatch.c:4205]: VMAutomation_ReportPowerOpFinished: statevar=0, newAppState=1870, success=1 additionalError=0
+2021-09-11T11:45:52.178+05:30| vmx| I005: Transitioned vmx/execState/val to poweredOff
+2021-09-11T11:45:52.178+05:30| vmx| I005: WQPoolFreePoll : pollIx = 3, signalHandle = 1044
+2021-09-11T11:45:52.178+05:30| vmx| I005: Vix: [mainDispatch.c:815]: VMAutomation_LateShutdown()
+2021-09-11T11:45:52.178+05:30| vmx| I005: Vix: [mainDispatch.c:770]: VMAutomationCloseListenerSocket. Closing listener socket.
+2021-09-11T11:45:52.178+05:30| vmx| I005: Flushing VMX VMDB connections
+2021-09-11T11:45:52.178+05:30| vmx| I005: VmdbDbRemoveCnx: Removing Cnx from Db for '/db/connection/#1/'
+2021-09-11T11:45:52.178+05:30| vmx| I005: VmdbCnxDisconnect: Disconnect: closed pipe for pub cnx '/db/connection/#1/' (0)
+2021-09-11T11:45:52.178+05:30| vmx| I005: VigorTransport_ServerDestroy: server destroyed.
+2021-09-11T11:45:52.178+05:30| vmx| I005: WQPoolFreePoll : pollIx = 2, signalHandle = 744
+2021-09-11T11:45:52.178+05:30| vmx| I005: WQPoolFreePoll : pollIx = 1, signalHandle = 808
+2021-09-11T11:45:52.178+05:30| vmx| I005: VMX exit (0).
+2021-09-11T11:45:52.178+05:30| vmx| I005: OBJLIB-LIB: ObjLib cleanup done.
